@@ -4,7 +4,7 @@
 This extension adds a random string to your prompt. 
 Choose between only letters, only numbers or both.
 Put the random string at the beginning, at the end or somewhere random in your prompt.
-![screenshot of the extension](https://raw.githubusercontent.com/h43lb1t0/sd-addRandom2Prompt/images/sdAddRandom2PromptScreenshot.png)
+![screenshot of the extension](https://raw.githubusercontent.com/h43lb1t0/sd-addRandom2Prompt/main/images/sdAddRandom2PromptScreenshot.png)
 
 ## why?
 You have found a seed you like, but want to add some variation to it? This is the extension for you!
