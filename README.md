@@ -16,5 +16,6 @@ All of this can be done in countless other ways, but this is the way I like it. 
 ## some infos
 some of the default values can be changed in the settings.
 
-It does not *break* DynamicPrompts, but use these two extensions together at your own risk.
-**Disabling DynamicPrompts to get the correct info texts displayed.**
+# Important
+
+**It works with [DynamicPrompts](https://github.com/adieyal/sd-dynamic-prompts), but make sure, that the folder name of this extension is after the folder name of DynamicPrompts in alphabetical order. Thats why this repos name starts with a 'z'.**
